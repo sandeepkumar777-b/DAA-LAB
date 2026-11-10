@@ -1,0 +1,40 @@
+Time: Mon Sep 21 13:40:44 2026
+Query: i have doubt in flat class
+Detected Intent: no_match
+Response: No suitable response found.
+--------------------------------------------------
+Time: Mon Sep 21 13:41:06 2026
+Query: I lost my laptop. what should I do ?
+Detected Intent: id_card
+Response: For lost ID card or duplicate ID card, submit an application to the Administrative Office through the concerned section.
+--------------------------------------------------
+Time: Mon Sep 21 13:42:56 2026
+Query: I lost my id card. what should i do?
+Detected Intent: id_card
+Response: For lost ID card or duplicate ID card, submit an application to the Administrative Office through the concerned section.
+--------------------------------------------------
+Time: Mon Sep 21 13:43:17 2026
+Query: I have doubt in today class
+Detected Intent: no_match
+Response: No suitable response found.
+--------------------------------------------------
+Time: Mon Sep 21 13:43:29 2026
+Query: wifi is not working in boys hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Mon Sep 21 13:50:41 2026
+Query: wifi is not working properly in classroom
+Detected Intent: wifi
+Response: For Wi-Fi or internet issues, contact the IT Infrastructure Office with your student ID, device details, and room or block location.
+--------------------------------------------------
+Time: Mon Sep 21 13:51:19 2026
+Query: due to heavy dance near dj box, my ears are not working
+Detected Intent: no_match
+Response: No suitable response found.
+--------------------------------------------------
+Time: Mon Sep 21 13:51:56 2026
+Query: there is no books for operating systems in library
+Detected Intent: library
+Response: For library services, contact the library counter with your ID card. Return or renew books before the due date to avoid fines.
+--------------------------------------------------
